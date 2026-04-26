@@ -1,2 +1,0 @@
-# .github
-NERo homepage configuration
