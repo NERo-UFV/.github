@@ -1,10 +1,12 @@
+<h1 align="center">Robotics Specialization Center</h1>
 
 <p align="center">
-    <h1>Robotics Specialization Center</h1>
-    <img src="./assets/nero-logo.png" width="800px" />
-<b>Robotics • Autonomous Systems • Machine Learning • Artificial Intelligence</b>
+  <img src="./assets/nero-logo.png" width="800px" />
 </p>
 
+<p align="center">
+  <b>Robotics • Autonomous Systems • Machine Learning • Artificial Intelligence</b>
+</p>
 ---
 
 ## Robotics Specialization Center (NERo)
