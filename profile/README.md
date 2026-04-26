@@ -7,6 +7,7 @@
 <p align="center">
   <b>Robotics • Autonomous Systems • Machine Learning • Artificial Intelligence</b>
 </p>
+
 ---
 
 ## Robotics Specialization Center (NERo)
