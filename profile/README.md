@@ -1,8 +1,9 @@
-# NERo — Núcleo de Especialização em Robótica
 
-![NERo Logo](./assets/nero-logo.png)
-
-**Robotics • Autonomous Systems • Machine Learning • Artificial Intelligence**
+<p align="center">
+    <h1>Robotics Specialization Center</h1>
+    <img src="./assets/nero-logo.png" width="800px" />
+<b>Robotics • Autonomous Systems • Machine Learning • Artificial Intelligence</b>
+</p>
 
 ---
 
